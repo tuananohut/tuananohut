@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tuananohut
 - 👀 I’m interested in reading books, watching movies and computers❤️
-- 🌱 I’m currently learning OpenCV and Godot.
+- 🌱 I’m currently learning game development.

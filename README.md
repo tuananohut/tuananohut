@@ -22,7 +22,7 @@
 <a href="https://stackoverflow.com/users/tuananohut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tuananohut" height="30" width="40" /></a>
 <a href="https://instagram.com/tuana_nohut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuana_nohut" height="30" width="40" /></a>
 <a href="https://medium.com/@tkane_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tkane_n" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@tkanesrkajol58?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tkanesrkajol58" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@tkanesrkajol58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tkanesrkajol58" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tkanenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tkanenn" height="30" width="40" /></a>
 </p>
 

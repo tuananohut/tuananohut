@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuananohut&label=Profile%20views&color=0e75b6&style=flat" alt="tuananohut" /> </p>
 
-- 🔭 I’m currently working on **Skeleton Wars**
+- 🔭 I’m currently working on **Islamic Stars**
 
-- 🌱 I’m currently learning **game development.**
+- 🌱 I’m currently learning **graphics development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tuananohut](https://github.com/tuananohut)
 
 - 📝 I regularly write articles on [https://medium.com/@tkane_n](https://medium.com/@tkane_n)
 
-- 💬 Ask me about **python and c++**
+- 💬 Ask me about **c++**
 
 - 📫 How to reach me **tkanetech@gmail.com**
 

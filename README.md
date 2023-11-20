@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tuana Nohut</h1>
-<h3 align="center">A passionate game developer from Turkey</h3>
+<h3 align="center">A passionate graphics developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuananohut&label=Profile%20views&color=0e75b6&style=flat" alt="tuananohut" /> </p>
 
 - 🔭 I’m currently working on **Islamic Stars**
 
-- 🌱 I’m currently learning **graphics development.**
+- 🌱 I’m currently learning **computer graphics.** I'm using **SFML and OpenGL libraries.** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/tuananohut](https://github.com/tuananohut)
 

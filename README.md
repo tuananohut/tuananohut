@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Islamic Stars**
 
-- 🌱 I’m currently learning **computer graphics.** I'm using **SFML and OpenGL libraries.** 
+- 🌱 I’m currently learning **computer graphics.** I'm using **DirectX** currently.
 
 - 👨‍💻 All of my projects are available at [https://github.com/tuananohut](https://github.com/tuananohut)
 

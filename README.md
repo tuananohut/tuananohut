@@ -9,13 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tuananohut](https://github.com/tuananohut)
 
-- 📝 I regularly write articles on [https://medium.com/@tkane_n](https://medium.com/@tkane_n)
-
 - 📫 How to reach me **tkanetech@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tuana-nohut-196136278/](https://www.linkedin.com/in/tuana-nohut-196136278/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My blog:</h3>
 <p align="left">
 <a href="https://medium.com/@tkane_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tkane_n" height="30" width="40" /></a>
 </p>

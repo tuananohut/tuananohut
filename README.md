@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tuananohut](https://github.com/tuananohut)
 
-- 📫 How to reach me **tkanetech@gmail.com**
+- 📫 How to reach me **tuananohutt@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tuana-nohut-196136278/](https://www.linkedin.com/in/tuana-nohut-196136278/)
 

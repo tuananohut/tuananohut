@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **computer science and computer graphics.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tuananohut](https://github.com/tuananohut)
+- 👨‍💻 All of my projects are available at [Portfolio](https://tuananohut.github.io/)
 
 - 📫 How to reach me **tuananohutt@gmail.com**
 

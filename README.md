@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Real Time Rendering**
 
-- 🌱 I’m currently learning **computer science specifically, digital design & computer architecture and computer graphics.**
+- 🌱 I’m currently learning **computer science, specifically digital design & computer architecture and computer graphics.**
 
 - 💻 All of my projects are available at [Tuana Nohut - Graphics Programmer](https://tuananohut.github.io/)
 

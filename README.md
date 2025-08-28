@@ -1,12 +1,18 @@
 <h1 align="center">Hi, I'm Tuana</h1>
-<h3 align="center">Graphics Programmer</h3>
+<h3 align="center">Graphics Programmer | Industrial and Software Engineer</h3>
 
-- 🔭 I’m currently working on **Real Time Rendering**
+I’m a graphics programmer with a foundation in **industrial engineering** and a strong interest in **software and low-level systems**. I enjoy understanding systems from the ground up and applying that knowledge to **end-to-end product development**, from low-level programming and graphics engines to real-time rendering and software deployment.
 
-- 🌱 I’m currently learning **computer science, specifically digital design & computer architecture and computer graphics.**
+My work spans **graphics programming, real-time rendering, engine development**, alongside exploring core [computer science concepts](https://teachyourselfcs.com/). I approach each project with curiosity and a focus on learning through building.
 
-- 💻 All of my projects are available at [Tuana Nohut - Graphics Programmer](https://tuananohut.github.io/)
+This combination of industrial and software engineering gives me a **systematic perspective on planning, efficiency, and quality**, which complements my technical work.
 
-- 📫 How to reach me **tuananohutt@gmail.com**
+You can find my projects here: [Tuana Nohut - Graphics Programmer](https://tuananohut.github.io/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tuana-nohut-196136278/](https://www.linkedin.com/in/tuana-nohut-196136278/)
+### My Favourites: 
+
+1. [![Video 1](https://img.youtube.com/vi/FSMcqTJsh2w/0.jpg)](https://youtu.be/FSMcqTJsh2w)
+
+2. [![Video 2](https://img.youtube.com/vi/RaEIGeGy7dM/0.jpg)](https://youtu.be/RaEIGeGy7dM)
+
+3. [![Video 3](https://img.youtube.com/vi/vepaVo9sTKY/0.jpg)](https://youtu.be/vepaVo9sTKY)

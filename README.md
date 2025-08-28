@@ -11,8 +11,8 @@ You can find my projects here: [Tuana Nohut - Graphics Programmer](https://tuana
 
 ### My Favourites: 
 
-1. [![Video 1](https://img.youtube.com/vi/FSMcqTJsh2w/0.jpg)](https://youtu.be/FSMcqTJsh2w)
+[![Video 1](https://img.youtube.com/vi/FSMcqTJsh2w/0.jpg)](https://youtu.be/FSMcqTJsh2w)
 
-2. [![Video 2](https://img.youtube.com/vi/RaEIGeGy7dM/0.jpg)](https://youtu.be/RaEIGeGy7dM)
+[![Video 2](https://img.youtube.com/vi/RaEIGeGy7dM/0.jpg)](https://youtu.be/RaEIGeGy7dM)
 
-3. [![Video 3](https://img.youtube.com/vi/vepaVo9sTKY/0.jpg)](https://youtu.be/vepaVo9sTKY)
+[![Video 3](https://img.youtube.com/vi/vepaVo9sTKY/0.jpg)](https://youtu.be/vepaVo9sTKY)

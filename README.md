@@ -14,15 +14,15 @@ You can find my projects here: [Tuana Nohut - Graphics Programmer](https://tuana
 <div style="display: flex; gap: 10px;">
 
   <a href="https://youtu.be/FSMcqTJsh2w" style="flex: 1;">
-    <img src="https://img.youtube.com/vi/FSMcqTJsh2w/0.jpg" style="width: 100%; height: auto;" alt="Video 1"/>
+    <img src="https://img.youtube.com/vi/FSMcqTJsh2w/0.jpg" style="width: 80%; height: auto;" alt="Video 1"/>
   </a>
 
   <a href="https://youtu.be/RaEIGeGy7dM" style="flex: 1;">
-    <img src="https://img.youtube.com/vi/RaEIGeGy7dM/0.jpg" style="width: 100%; height: auto;" alt="Video 2"/>
+    <img src="https://img.youtube.com/vi/RaEIGeGy7dM/0.jpg" style="width: 80%; height: auto;" alt="Video 2"/>
   </a>
 
   <a href="https://youtu.be/vepaVo9sTKY" style="flex: 1;">
-    <img src="https://img.youtube.com/vi/vepaVo9sTKY/0.jpg" style="width: 100%; height: auto;" alt="Video 3"/>
+    <img src="https://img.youtube.com/vi/vepaVo9sTKY/0.jpg" style="width: 80%; height: auto;" alt="Video 3"/>
   </a>
 
 </div>

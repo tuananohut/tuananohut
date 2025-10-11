@@ -1,10 +1,20 @@
 <h1 align="center">Hi, I'm Tuana</h1>
-<h3 align="center">Graphics Programmer | Industrial and Software Engineer</h3>
+<h3 align="center">Aspiring Graphics Systems Engineer | Low-Level Enthusiast</h3>
 
-I’m a graphics programmer with a foundation in **industrial engineering** and a strong interest in **software and low-level systems**. I enjoy understanding systems from the ground up and applying that knowledge to **end-to-end product development**, from low-level programming and graphics engines to real-time rendering and software deployment.
+I am a systems engineer with a deep passion for real-time computer graphics. My focus is on understanding and building the foundational technologies that bring digital worlds to life—from the metal of the GPU to the pixels on the screen.
 
-My work spans **graphics programming, real-time rendering, engine development**, alongside exploring core [computer science concepts](https://teachyourselfcs.com/). I approach each project with curiosity and a focus on learning through building.
+I thrive on the challenges of low-level development and performance optimization. My goal is to write code that is not only functional but also efficient and elegant in its interaction with the hardware. My background in Industrial Engineering provides me with a systematic approach to problem-solving and system-level optimization.
 
-This combination of industrial and software engineering gives me a **systematic perspective on planning, efficiency, and quality**, which complements my technical work.
+⚙️ Currently building a Software Rasterizer from scratch in C to deepen my understanding of the graphics pipeline. 
 
-You can find my projects here: [Tuana Nohut - Graphics Programmer](https://tuananohut.github.io/)
+🚀 Implementing real-time rendering techniques using DirectX 11 and OpenGL to master hardware-accelerated graphics.
+
+🧠 Studying CPU architectures and operating systems fundamentals to strengthen my low-level knowledge base.
+
+Languages: C++, C, HLSL, GLSL, Bash/Shell
+
+APIs & Libraries: DirectX 11, OpenGL, Win32 API
+
+Tools & Platforms: Windows, Linux, Git, Make, Visual Studio, GCC
+
+Debugging & Profiling: RenderDoc, PIX for Windows, Visual Studio Debugger, GDB 

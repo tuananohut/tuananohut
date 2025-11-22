@@ -5,12 +5,6 @@ I am a systems software engineer with a deep passion for real-time computer grap
 
 I thrive on the challenges of low-level development and performance optimization. My goal is to write code that is not only functional but also efficient and elegant in its interaction with the hardware. My background in Industrial Engineering provides me with a systematic approach to problem-solving and system-level optimization.
 
-- ⚙️ Currently building a Software Rasterizer from scratch in C to deepen my understanding of the graphics pipeline. 
-
-- 🚀 Implementing real-time rendering techniques using DirectX 11 and OpenGL to master hardware-accelerated graphics.
-
-- 🧠 Studying CPU architectures and operating systems fundamentals to strengthen my low-level knowledge base.
-
 **Languages:** C++, C, HLSL, GLSL, Bash/Shell
 
 **APIs & Libraries:** DirectX 11, OpenGL, Win32 API

@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Tuana</h1>
 <h2 align="center">Aspiring Graphics Systems Software Engineer | Low-Level Enthusiast</h2>
 
-I am a systems software engineer with a deep passion for real-time computer graphics. My focus is on building the foundational software that bridges the gap between hardware capabilities and the final rendered image.
+I am an aspiring graphics systems software engineer focused on graphics and low-level systems. My main interests are computer graphics, computational geometry, and the mathematics behind rendering systems.
 
-I thrive on the challenges of low-level development and performance optimization. My goal is to write code that is not only functional but also efficient and elegant in its interaction with the hardware. My background in Industrial Engineering provides me with a systematic approach to problem-solving and system-level optimization.
+I approach software with a systems mindset. Rather than only using tools, I prefer understanding how they work internally. I enjoy breaking complex systems down into their fundamental components and rebuilding them from scratch.
+
+Most of my work revolves around experimenting with graphics techniques, building small engines, and turning theoretical concepts into working implementations.
 
 **Languages:** C++, C, HLSL, GLSL, Bash/Shell
 
